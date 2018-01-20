@@ -1,0 +1,2 @@
+print('good')
+int a

@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -7,7 +6,6 @@
 
 
 //定义数据
- 
 struct information_strct
 	{
        int number_ID;

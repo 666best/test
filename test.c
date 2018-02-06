@@ -5,7 +5,7 @@
 #include<windows.h>
 
 
-//定义数据
+//定义数据 
 struct information_strct
 	{
        int number_ID;
